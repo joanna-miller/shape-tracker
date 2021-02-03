@@ -25,4 +25,3 @@ $(document).ready(function() {
     $('#response2').append(`<p>The area of the rectangle is ${response}.</p>`);
   });
 });
-});
